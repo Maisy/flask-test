@@ -1,0 +1,38 @@
+2024-09-01 16:53:52,726 - my_flask_app - INFO - test
+2024-09-01 16:53:53,365 - my_flask_app - INFO - test
+2024-09-01 17:30:15,560 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:30:16,872 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:32:24,939 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:33:20,427 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:38:11,365 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:39:05,772 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:39:07,060 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:40:24,173 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:40:57,280 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:41:15,437 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:41:36,114 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:41:37,550 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 17:41:37,676 - my_flask_app - INFO - /post called
+2024-09-01 17:41:37,677 - my_flask_app - INFO - /post called
+2024-09-01 17:41:57,800 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:03:06,282 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:03:07,685 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:05:11,290 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:05:43,605 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:07:42,827 - my_flask_app - INFO - maisy called /post
+2024-09-01 18:13:23,370 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:13:24,716 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:13:30,120 - my_flask_app - INFO - maisy called /post
+2024-09-01 18:14:14,973 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:14:18,072 - my_flask_app - DEBUG - maisy called /post
+2024-09-01 18:14:48,076 - my_flask_app - DEBUG - maisy called /post
+2024-09-01 18:21:41,354 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:21:42,981 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:21:51,275 - my_flask_app - DEBUG - maisy called /post
+2024-09-01 18:22:44,708 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:23:20,649 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:23:27,298 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:23:42,398 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:23:43,749 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
+2024-09-01 18:23:46,867 - my_flask_app - DEBUG - maisy called /post
+2024-09-01 18:25:30,807 - my_flask_app - INFO - start flask app~~~~~~~~~~~~~~
